@@ -1,0 +1,48 @@
+/* Utilities */
+.fs-smallest {
+  font-size: 1rem;
+}
+
+.fs-small {
+  font-size: 1.3rem;
+}
+
+.fs-normal {
+  font-size: 1.6rem;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.w-10 {
+  width: 10rem;
+}
+
+.h-100vh {
+  height: 100svh;
+}
+
+.line-bottom-dark {
+  margin: 0 auto;
+  background: black;
+  height: 0.3rem;
+  width: 5rem;
+}
+
+/* Header */
+.overlay {
+  border-image: fill 1 linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+}
+
+.header-bg {
+  background-image: url("https://images.unsplash.com/photo-1462007895615-c8c073bebcd8?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.border-red {
+  border: 1px solid red;
+}
