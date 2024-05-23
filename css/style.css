@@ -1,3 +1,7 @@
+html {
+  scroll-padding-top: 5rem;
+}
+
 /* Utilities */
 .fs-smallest {
   font-size: 1rem;
